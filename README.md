@@ -37,7 +37,7 @@ To eval cross-domain performance, uncomment the "DATA_CONFIG_TAR" in model confi
 
 ## Acknowledgement
 
-Thanks to the [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) codebase. Thanks to [SECOND](https://github.com/traveller59/second.pytorch), [CenterPoint](https://github.com/tianweiy/CenterPoint), [PV-RCNN](https://github.com/sshaoshuai/PV-RCNN) and [VoxelRCNN](https://github.com/djiajunustc/Voxel-R-CNN) for their valuable inspiration.
+Thanks to the [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) codebase. Thanks to [SECOND](https://github.com/traveller59/second.pytorch), [CenterPoint](https://github.com/tianweiy/CenterPoint), [PV-RCNN](https://github.com/sshaoshuai/PV-RCNN) and [VoxelRCNN](https://github.com/djiajunustc/Voxel-R-CNN) for their valuable inspiration. Thanks to [3D_adapt_auto_driving](https://github.com/cxy1997/3D_adapt_auto_driving) for their work on cross-domain 3D object detection tasks.
 
 ## Citation
 If you find this work useful in your research, please consider cite:
